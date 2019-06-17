@@ -1,3 +1,8 @@
+---
+title: Test
+nav_order: 1
+---
+
 ## hydrus network - client and server
 
 The hydrus network client is a desktop application written for Anonymous and other internet-enthusiasts with large media collections. It organises your files into an internal database and browses them with tags instead of folders, a little like a booru on your desktop. Tags and files can be anonymously shared through custom servers that any user may run. Everything is free, nothing phones home, and the source code is included with the release. It is developed mostly for Windows, but reasonably functional builds for Linux and OS X are available.
