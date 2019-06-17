@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## hydrus network - client and server
 
-You can use the [editor on GitHub](https://github.com/DonaldTsang/donaldtsang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The hydrus network client is a desktop application written for Anonymous and other internet-enthusiasts with large media collections. It organises your files into an internal database and browses them with tags instead of folders, a little like a booru on your desktop. Tags and files can be anonymously shared through custom servers that any user may run. Everything is free, nothing phones home, and the source code is included with the release. It is developed mostly for Windows, but reasonably functional builds for Linux and OS X are available.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The software is constantly being improved. I try to put out a new release every Wednesday by 8pm Eastern.
 
-### Markdown
+Currently importable filetypes are:
+- images - jpg, gif (including animated), png (including animated!), tiff, webp, bmp
+- video - webm, mp4, mpeg, avi, mov, mkv, flv, wmv
+- audio - mp3, flac, ogg, wma
+- misc - swf, pdf, psd, zip, rar, 7z
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Audio is not yet well supported, but it is easy to launch any file inside the client with your OS's default program.
 
-```markdown
-Syntax highlighted code block
+The client can download and parse tags from a number of websites, including by default:
+- 4chan and 8chan, with a thread watcher
+- all major popular boorus
+- Artstation, DeviantArt, HentaiFoundry, NewGrounds, Pixiv
+- tumblr (RIP raw) and twitter
 
-# Header 1
-## Header 2
-### Header 3
+And can be extended to download from more locations using easily shareable user-made scripts. It can also be set to 'subscribe' to any gallery search, repeating it every few days to keep up with new results.
 
-- Bulleted
-- List
+The program's emphasis is on your freedom. There is no DRM, no spying, no censorship.
 
-1. Numbered
-2. List
+If you would like to try it, I strongly recommend you check out the help and getting started guide. A copy is included with the release as well.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DonaldTsang/donaldtsang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So:
+- help
+- [8chan Board](https://8ch.net/hydrus)
+- [tumblr](http://hydrus.tumblr.com/) ([RSS](http://hydrus.tumblr.com/rss))
+- [Downloads](https://github.com/hydrusnetwork/hydrus/releases)
+- [GitHub](https://github.com/hydrusnetwork/hydrus)
+- [Twitter](https://twitter.com/hydrusnetwork)
+- [Email](mailto:hydrus.admin@gmail.com)
+- [Discord](https://discord.gg/3H8UTpb)
+- [Patreon](https://www.patreon.com/hydrus_dev)
